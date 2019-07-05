@@ -1,0 +1,4 @@
+applications:
+- name: <maratona-id>-desafio1-behindthecode
+  memory: 256M
+  instances: 1
