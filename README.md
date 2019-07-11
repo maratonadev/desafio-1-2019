@@ -36,8 +36,17 @@ Espera-se que este assistente virtual seja capaz de responder dúvidas, tais com
 
 Sabemos que as regras de harmonização podem ser um tanto quanto complexas. Por exemplo, existem diversos tipos de carne vermelha e para cada tipo de carne vermelha podemos ter diferentes tipos de vinhos que harmonizam melhor. No entanto, a primeira versão deste assistente virtual irá tratar apenas poucas relações de harmonização. Estas relações são apresentadas na Tabela 1. 
 
+| SKU do vinho |                              Nome do vinho                              |   Tipo  |     Harmonizacao_vinho    | SKU da comida |
+|:------------:|:-----------------------------------------------------------------------:|:-------:|:-------------------------:|:-------------:|
+|    1178414   |                 Vinho Chileno Posé CÉFIRO Garrafa 750ml                 |  Posés  | Carnes vermelhas e massas |    1287868    |
+|    1178413   |              Vinho Chileno Branco Chardonnay Garrafa 750ml              | Brancos | Carnes vermelhas e massas |    1287868    |
+|    1178407   |    Vinho Português Branco JOÃO PORTUGAL RAMOS Alvarinho Garrafa 750ml   | Brancos |  Peixes ou frutos do mar  |    1287871    |
+|    1178408   |         Vinho Português Branco ALENTEJANO MONTADO Garrafa 750ml         | Brancos |      Queijos brancos      |    1287870    |
+|    1178409   |            Vinho Português Branco DORY COLHEITA Garrafa 750ml           | Brancos |          Bacalhau         |    1287869    |
+|    1178431   | Vinho Argentino Tinto CADUS Signature Series Petit Verdot Garrafa 750ml |  Tintos | Carnes vermelhas e massas |    1287868    |
+|    1164669   | Vinho Francês Tinto LES VIOLETTES Côtes Du Phône-Villages Garrafa 750ml |  Tintos |      Queijos Curados      |    1287873   |
+|    1164670   |      Vinho Francês Tinto Château HAUT FOURAT Bordeaux Garrafa 750ml     |  Tintos |       Carnes de Caça      |    1265678    |
 <div align="center">
-    <img width="750" src="doc/source/images/Tabela%2001.jpg" />
     <p>Tabela 1: Regras de harmonização.</p>
 </div>
 <br>
